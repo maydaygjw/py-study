@@ -17,3 +17,7 @@ print_params2('Params: ', 1, 2, 3)
 print_params2(title = 'Nothing')
 
 print_params3(x = 1, y = 2, z = 3)
+
+def add(a, b): return a + b
+
+print add(1, 2)
